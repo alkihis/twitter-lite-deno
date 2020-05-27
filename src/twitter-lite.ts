@@ -121,7 +121,6 @@ export default class Twitter {
    * @private
    */
   static _handleResponse(response: Response) {
-    // @ts-ignore
     const headers = Object.fromEntries([...response.headers.entries()]); // TODO: see #44
     // Return empty response on 204 "No content"
     if (response.status === 204)
