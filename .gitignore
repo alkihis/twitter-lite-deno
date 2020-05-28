@@ -1,3 +1,4 @@
 node_modules
 dist
-twitter.ts
+*.test.ts
+test/*
