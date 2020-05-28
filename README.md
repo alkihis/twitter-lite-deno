@@ -4,8 +4,6 @@ Port of [twitter-lite](https://github.com/draftbit/twitter-lite) library to Deno
 
 A tiny, full-featured, modern client / server library for the [Twitter API](https://developer.twitter.com/en/docs/basics/things-every-developer-should-know).
 
-[![npm](https://img.shields.io/npm/v/twitter-lite.svg)](https://npm.im/twitter-lite) [![travis](https://travis-ci.org/draftbit/twitter-lite.svg?branch=master)](https://travis-ci.org/draftbit/twitter-lite)
-
 ## Features
 
 - Promise driven via Async / Await
