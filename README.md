@@ -22,9 +22,9 @@ We have built this library because existing ones [have not been recently maintai
 ## Installation
 
 ```es6
-import Twitter from 'https://deno.land/x/twitter-lite-deno@1.0.0/mod.ts';
+import Twitter from 'https://deno.land/x/twitter_lite_deno@1.0.0/mod.ts';
 // or directly from github
-import Twitter from 'https://raw.githubusercontent.com/alkihis/twitter-lite-deno/1.0.0/mod.ts';
+import Twitter from 'https://raw.githubusercontent.com/alkihis/twitter_lite_deno/1.0.0/mod.ts';
 
 const client = new Twitter({
   ...
