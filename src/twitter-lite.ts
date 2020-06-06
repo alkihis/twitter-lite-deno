@@ -1,4 +1,4 @@
-import OAuth from 'https://raw.githubusercontent.com/alkihis/oauth-1.0a/3.0.0/mod.ts';
+import OAuth from 'https://raw.githubusercontent.com/alkihis/oauth_1.0a/3.0.0/mod.ts';
 import { hmac } from 'https://deno.land/x/hmac@v1.0.2/mod.ts';
 
 const getUrl = (subdomain: string, endpoint = '1.1') =>
